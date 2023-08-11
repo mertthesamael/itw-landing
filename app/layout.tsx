@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: 'ITWorked',
   description: 'Project Management System Landing Page',
   openGraph:{
-    images:['https://raw.githubusercontent.com/mertthesamael/trakkor/master/public/logo.png']
+    images:['https://raw.githubusercontent.com/mertthesamael/itw-landing/master/public/itworked.png']
   }
 }
 
